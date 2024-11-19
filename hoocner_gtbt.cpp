@@ -10,7 +10,7 @@ float tinhGiaTri_hoocner(vector<float> v, float x){
 	for (int i = 1; i < v.size(); i++){
 		result = result * x + v[i];
 	}
-	return result;
+	return resultl
 }
 
 int main(){
